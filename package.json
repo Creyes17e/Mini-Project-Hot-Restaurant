@@ -1,0 +1,23 @@
+{
+  "name": "mini-project-hot-restaurant",
+  "version": "1.0.0",
+  "description": "Application activity to demonstrate building a front/back-end application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/On-Your-Marc-GO/Mini-Project-Hot-Restaurant.git"
+  },
+  "author": "Marc Arguijo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/On-Your-Marc-GO/Mini-Project-Hot-Restaurant/issues"
+  },
+  "homepage": "https://github.com/On-Your-Marc-GO/Mini-Project-Hot-Restaurant#readme"
+}
